@@ -1,4 +1,2 @@
 # Cartographer
-This was going to be an open source GPS program for farmers to track the weeds present on their farms and farms around them.
-
-This was put on pause when I switched jobs, I plan on returning to this project. 
+A physics / science LLM that be used for specific research and be feed data relevant to the field in question. This will be useful for independent or novel research. 
