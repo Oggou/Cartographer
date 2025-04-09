@@ -1,2 +1,2 @@
 # Cartographer
-mapping of pulsar timing arrays into theh CMBR
+mapping of pulsar timing arrays into the CMBR
